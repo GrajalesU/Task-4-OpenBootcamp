@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+.Square{
+  margin: 20px;
+  width: 255px;
+  height: 255px;
+  transition: all 2s;
+}
